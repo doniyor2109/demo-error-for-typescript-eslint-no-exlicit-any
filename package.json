@@ -1,0 +1,15 @@
+{
+  "name": "demo-eslint-no-explicit-any-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint index.ts"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  }
+}
